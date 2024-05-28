@@ -25,4 +25,3 @@ We enable a range of services designed to make online shopping seamless and secu
 
 ## :briefcase:Carrer 
 Join us in redefining online shopping with Klarna's powerful and flexible solutions. Visit [Klarna Careers](https://www.klarna.com/careers/) to learn more.
-
