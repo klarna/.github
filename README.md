@@ -23,5 +23,5 @@ We enable a range of services designed to make online shopping seamless and secu
 [Testing Klarna API](https://docs.klarna.com/resources/test-environment/?utm_source=github)  
 [Our blog](https://engineering.klarna.com/)
 
-## :briefcase:Carrer 
+## :briefcase: Carrer 
 Join us in redefining online shopping with Klarna's powerful and flexible solutions. Visit [Klarna Careers](https://www.klarna.com/careers/) to learn more.
