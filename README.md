@@ -2,6 +2,7 @@
 Klarna is a revolutionary payment solution that transforms the checkout experience for shoppers and merchants alike.**Our vision?** To be the new standard for how people shop and pay.  
 We enable a range of services designed to make online shopping seamless and secure. Whether you're looking to enhance your e-commerce platform or integrate Klarna's cutting-edge payment options here you can get access our libraries, SDKs, and plugins for e-commerce platforms, along with our Open API specifications, right here. 
 
+## Explore our repositories and documentation
 
 ### 📱 Mobile SDKs:
 [SDK for iOS](https://github.com/klarna/klarna-mobile-sdk)  
@@ -15,16 +16,13 @@ We enable a range of services designed to make online shopping seamless and secu
 [Salesforce Commerce Cloud for Klarna Checkout](https://github.com/klarna/sfcc-klarna-checkout)  
 [SAP Commerce for Klarna Payments](https://github.com/klarna/SAP-Commerce-klarna-payments)  
 
-
-### Additional key resources:
+### :two_hearts: Additional key resources:
 
 [Technical Documentation](https://docs.klarna.com/?utm_source=github)  
 [REST API specifications](https://docs.klarna.com/api/introduction/?utm_source=github)  
 [Testing Klarna API](https://docs.klarna.com/resources/test-environment/?utm_source=github)  
+[Our blog](https://engineering.klarna.com/)
 
-
-:pencil2:	[Our blog](https://engineering.klarna.com/)
-
-## Carrer 
+## :briefcase:Carrer 
 Join us in redefining online shopping with Klarna's powerful and flexible solutions. Visit [Klarna Careers](https://www.klarna.com/careers/) to learn more.
 
