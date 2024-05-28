@@ -4,10 +4,10 @@ Access our libraries, SDKs, and plugins for e-commerce platforms, along with our
 
 ### SDKs:
 
--[Mobile SDK for iOS](https://github.com/klarna/klarna-mobile-sdk).
--[Mobile SDK for Android](https://github.com/klarna/klarna-mobile-sdk-android).
--[Mobile SDK React Native](https://github.com/klarna/react-native-klarna-inapp-sdk).
--[Mobile SDK Flutter](https://github.com/klarna/klarna-mobile-sdk-flutter).
+-[Mobile SDK for iOS](https://github.com/klarna/klarna-mobile-sdk)  
+-[Mobile SDK for Android](https://github.com/klarna/klarna-mobile-sdk-android)  
+-[Mobile SDK React Native](https://github.com/klarna/react-native-klarna-inapp-sdk)  
+-[Mobile SDK Flutter](https://github.com/klarna/klarna-mobile-sdk-flutter)  
 
 ### Platforms plugins and cartridges:
 
