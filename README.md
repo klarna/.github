@@ -1,11 +1,6 @@
 # Klarna GitHub organization 
 Access our libraries, SDKs, and plugins for e-commerce platforms, along with our Open API specifications here.
 
-## Key resources:
-
-[Technical Documentation](https://docs.klarna.com/)
-[REST API specifications](https://docs.klarna.com/api/introduction/)
-[Testing Klarna API](https://docs.klarna.com/resources/test-environment/)
 
 ## SDKs:
 
@@ -21,3 +16,8 @@ Access our libraries, SDKs, and plugins for e-commerce platforms, along with our
 [SAP Commerce for Klarna Payments](https://github.com/klarna/SAP-Commerce-klarna-payments)
 
 
+### Additional key resources:
+
+[Technical Documentation](https://docs.klarna.com/?utm_source=github)
+[REST API specifications](https://docs.klarna.com/api/introduction/?utm_source=github)
+[Testing Klarna API](https://docs.klarna.com/resources/test-environment/?utm_source=github)
