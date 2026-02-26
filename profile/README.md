@@ -20,7 +20,7 @@ We enable a range of services designed to make online shopping seamless and secu
 - [REST API specifications](https://docs.klarna.com/api/introduction/?utm_source=github)  
 - [Testing Klarna API](https://docs.klarna.com/resources/test-environment/?utm_source=github)  
 - [Our blog](https://engineering.klarna.com/)
-- [Out open-source contributions](https://klarna.github.io/)
+- [Our open-source contributions](https://klarna.github.io/)
 
 ## :briefcase: Career 
 Join us in redefining online shopping with Klarna's powerful and flexible solutions. Visit [Klarna Careers](https://www.klarna.com/careers/) to learn more.
