@@ -5,7 +5,7 @@ We enable a range of services designed to make online shopping seamless and secu
 ## Explore our repositories and documentation
 
 ### 📱 Mobile SDKs:
-- [SDK for iOS](https://github.com/klarna/klarna-mobile-sdk)
+- [SDK for iOS](https://github.com/klarna/klarna-mobile-sdk-ios)
 - [SDK for Android](https://github.com/klarna/klarna-mobile-sdk-android)
 - [SDK React Native](https://github.com/klarna/react-native-klarna-inapp-sdk)
 - [SDK Flutter](https://github.com/klarna/klarna-mobile-sdk-flutter)
